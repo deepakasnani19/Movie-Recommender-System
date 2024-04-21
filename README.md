@@ -1,2 +1,2 @@
 # Movie-Recommender-System
-This repository houses a machine learning project focused on movie recommendations. Alongside the project files, you'll find deployment scripts in Python, enabling easy implementation and accessibility. Dive into the world of ML-driven movie suggestions today!
+This repository contains a machine learning project centered around movie recommendations. Utilizing the TMDB dataset, our system is built using cosine similarity to deliver accurate suggestions. With deployment scripts in Python included, implementation and accessibility are streamlined. Explore the power of ML-driven movie recommendations today!
